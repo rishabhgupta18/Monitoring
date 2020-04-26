@@ -7,5 +7,5 @@
 <ul>To use Monitotring - 
 <li>Extend the class and provide the Predicate in the constructor</li>
 <li>Override the <b>operation</b> method and add the steps which need to be executed when the predicates matches</li>
-<li>[Optional] Override the close method(super.close is required to close the monitor timer)in case any additional resource needs to be closed.</li> 
+  <li>[Optional] Override the close method<b>(super.close is required to close the monitor timer)</b>in case any additional resource needs to be closed.</li> 
 </ul>
