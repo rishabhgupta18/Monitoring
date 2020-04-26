@@ -1,4 +1,4 @@
-# Multithread Time based Monitoring System
+# Multithreaded Time based Monitoring System
 
 <p>Monitoring can be used where there is a need to execute a process on a specific interval of time. Monitoring class accepts the Predicate<Integer>, Upon match it executes the operation.
   Monitoring has a Timer class which increments every second and verify the Predicate.</p>
